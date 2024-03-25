@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
- <img alt="IMAGE OF WELCOMES IN DIFFERENT LANGUAGES" src="[YOUR-DEFAULT-IMAGE](https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
+ <source media="(prefers-color-scheme: dark)" srcset="(https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
+ <source media="(prefers-color-scheme: light)" srcset="(https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
+ <img alt="IMAGE OF WELCOMES IN DIFFERENT LANGUAGES" src="(https://cdn.create.vista.com/api/media/small/134037200/stock-photo-welcome-word-cloud)">
 </picture>
 
 # Welcome! This is the Github profile of Sandeep Patel
